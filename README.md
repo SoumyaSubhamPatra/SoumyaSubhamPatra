@@ -24,11 +24,9 @@
 <h3 align="left">Connect with me:</h3>
  
 <p align="left">
-<a href="https://dev.to/@sahilz9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sahilz9" height="30" width="40" /></a>
-<a href="https://twitter.com/@stuart_1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stuart_1411" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sahil-yadav-85b04b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahil-yadav-85b04b218" height="30" width="40" /></a>
-<a href="https://instagram.com/sahil_yadav_here_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_yadav_here_" height="30" width="40" /></a>
-<a href="https://discord.gg/sahilyadav#0739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahilyadav#0739" height="30" width="40" /></a>
+<a href="https://github.com/SoumyaSubhamPatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sahilz9" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/soumyasubhampatra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahil-yadav-85b04b218" height="30" width="40" /></a>
 </p>
 
 ### ✍️ Dev Quote
